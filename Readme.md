@@ -1,6 +1,6 @@
 # Keras_RMAC
 
-Regional Maximum Activations of Convolutions (RMAC) feature extractor for Keras, based on [1] and [2]. The architecture of the model is as in the image below:
+Regional Maximum Activations of Convolutions (RMAC) feature extractor for Keras, based on (Tolias et al. 2016) and (Gordo et al. 2016). The architecture of the model is as in the image below:
 
 ![rmac](https://github.com/noagarcia/keras_rmac/blob/master/data/model.png?raw=true)
 
@@ -15,9 +15,9 @@ This code requires Keras version 2.0 or greater.
 
 ## References
 
-[1] Tolias, G., Sicre, R., & Jégou, H. Particular object retrieval with integral max-pooling of CNN activations. ICLR 2016.
+- Tolias, G., Sicre, R., & Jégou, H. Particular object retrieval with integral max-pooling of CNN activations. ICLR 2016.
 
-[2] Gordo, A., Almazán, J., Revaud, J., & Larlus, D. Deep image retrieval: Learning global representations for image search. ECCV 2016. 
+- Gordo, A., Almazán, J., Revaud, J., & Larlus, D. Deep image retrieval: Learning global representations for image search. ECCV 2016. 
 
 [1]: https://www.python.org/download/releases/2.7/
 [2]: https://keras.io/

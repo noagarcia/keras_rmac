@@ -11,7 +11,7 @@ This code requires Keras version 2.0 or greater.
 - [Python][1] (2.7)
 - [Keras][2] (2.1.2)
 - [Theano][3] (0.9.0)
-- [VGG16][4] weights --> download the file and save them in data/ folder
+- [VGG16 weights][4] --> download the file and save it in `data/` folder
 
 ## References
 

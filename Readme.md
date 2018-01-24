@@ -1,4 +1,4 @@
-# Keras_RMAC
+# Keras RMAC
 
 Regional Maximum Activations of Convolutions (RMAC) feature extractor for Keras, based on (Tolias et al. 2016) and (Gordo et al. 2016). The architecture of the model is as in the image below:
 

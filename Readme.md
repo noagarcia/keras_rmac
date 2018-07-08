@@ -27,7 +27,7 @@ This code is a re-implementation of RMAC for Keras.
 If using this code, please cite the paper where the re-implementation is used and the original RMAC paper:
 
 ```
-@article{Garcia2018Temporal,
+@article{garcia2018asymmetric,
    author    = {Noa Garcia and George Vogiatzis},
    title     = {Asymmetric Spatio-Temporal Embeddings for Large-Scale Image-to-Video Retrieval},
    booktitle = {Proceedings of the British Machine Vision Conference},
@@ -35,7 +35,7 @@ If using this code, please cite the paper where the re-implementation is used an
 }
 ``` 
 ```
-@article{tolias2015particular,
+@article{tolias2016particular,
    author    = {Tolias, Giorgos and Sicre, Ronan and J{\'e}gou, Herv{\'e}},
    title     = {Particular object retrieval with integral max-pooling of CNN activations},
    booktitle = {Proceedings of the International Conference on Learning Representations},
